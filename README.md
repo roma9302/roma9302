@@ -1,15 +1,15 @@
-# Привет, я Рома 👋
+# Hello, I'm Roma 👋
 
-## О себе
-- 🎓 Студент  МГК ЦТ 
-- 💻 Изучаю Python / JS / C++
-- 🌱 Сейчас я работаю над улучшением своих навыков в Git и GitHub
+## About myself
+- 🎓 Student MGK CT 
+- 💻 Learning Python / JS / C++
+- 🌱 I'm currently working on improving my skills in Git and GitHub
 
-## Мои навыки
+## My skills
 - Python
-- Git
-- JS 
+-Git
+-JS 
 - C++
 
-## Связаться со мной
+## Contact me
 - rozetka33376@gmail.com
