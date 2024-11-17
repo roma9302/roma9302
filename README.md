@@ -7,8 +7,11 @@
 
 ## My skills
 - Python
+  
 -Git
+
 -JS 
+
 - C++
 
 ## Contact me
