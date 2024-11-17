@@ -8,9 +8,9 @@
 ## My skills
 - Python
   
--Git
+- Git
 
--JS 
+- JS 
 
 - C++
 
