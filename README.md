@@ -1,18 +1,36 @@
-# Hello, I'm Roma 👋
+# 👋 Hi, I'm Roma!
 
-## About myself
-- 🎓 Student MGK CT 
-- 💻 Learning Python / JS / C++
-- 🌱 I'm currently working on improving my skills in Git and GitHub
+🎓 Student of MGK CT
 
-## My skills
+💻 Studying Python, JavaScript and C++
+🌱 Currently working on improving my skills in Git and GitHub
+
+---
+
+## 🛠️ My skills
+
+- **Programming languages:**
 - Python
-  
-- Git
-
-- JS 
-
+- JavaScript
 - C++
 
-## Contact me
-- rozetka33376@gmail.com
+- **Tools:**
+- Git
+- GitHub
+
+---
+
+## 🌍 Languages
+
+- Russian (native)
+- Belarusian (native)
+- English
+
+---
+
+## 📫 Contact me
+
+[rozetka33376@gmail.com](mailto:rozetka33376@gmail.com)
+
+---
+Thank you for visiting my profile! 🚀
