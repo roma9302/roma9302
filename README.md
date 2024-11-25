@@ -17,6 +17,8 @@
 - **Tools:**
 - Git
 - GitHub
+- Visual Studio
+- PyCharm
 
 ---
 
