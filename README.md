@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![Link](https://img.shields.io/badge/discord-blue?style=for-the-badge&color=%2300b2ff)](mailto:https://discordapp.com/users/roma09099/) 
+[![Link](https://img.shields.io/badge/discord-blue?style=for-the-badge&color=%2300b2ff)](https://discordapp.com/users/roma09099/) 
   [![Link](https://img.shields.io/badge/github-DIONISIU_BROVKA-blue?style=for-the-badge&color=%234925bb)](mailto:dev.dionisiu.brovka@gmail.com)
   [![Link](https://img.shields.io/badge/email-dev.dionisiu.brovka%40gmail.com-green?style=for-the-badge)](mailto:dev.dionisiu.brovka@gmail.com)
   
