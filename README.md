@@ -30,7 +30,7 @@ I study at the College of Digital Technologies. Minsk. Belarus.
 
   • C++
 
-• Tools:
+### • Tools:
 
   • Git
 
