@@ -14,13 +14,13 @@
 
 --- 
 
-▎🎓 Education
+# ▎🎓 Education
 
 I study at the College of Digital Technologies. Minsk. Belarus.
 
 ---
 
-# ▎⚙️ Tech Stack
+## ▎⚙️ Tech Stack
 
 ### • Programming Languages:
 
@@ -42,7 +42,7 @@ I study at the College of Digital Technologies. Minsk. Belarus.
 
 ---
 
-▎🌍 Languages
+### ▎🌍 Languages
 
 • Russian (Native)
 
