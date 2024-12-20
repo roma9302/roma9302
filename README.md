@@ -13,10 +13,11 @@
   [![Link](https://img.shields.io/badge/email-dev.dionisiu.brovka%40gmail.com-green?style=for-the-badge)](mailto:dev.dionisiu.brovka@gmail.com)
 </div>
 
+--- 
 
 ▎🎓 Education
-
 I study at the College of Digital Technologies. Minsk. Belarus.
+
 ---
 
 ▎⚙️ Tech Stack
