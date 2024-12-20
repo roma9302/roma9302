@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <h2>✨ Simonovich Roman ✨</h2>
+  <h2>🌹 Simonovich Roman 🌹</h2>
   
 
 
