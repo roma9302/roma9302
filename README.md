@@ -2,8 +2,15 @@
 
 🎓 Student of MGK CT
 
-💻 Studying Python, JavaScript and C++
-🌱 Currently working on improving my skills in Git and GitHub
+</div>
+
+<div align="center">
+  
+  [![Link](https://img.shields.io/badge/telegram-goppi-blue?style=for-the-badge&color=%2300b2ff)](mailto:dev.dionisiu.brovka@gmail.com) 
+  [![Link](https://img.shields.io/badge/github-DIONISIU_BROVKA-blue?style=for-the-badge&color=%234925bb)](mailto:dev.dionisiu.brovka@gmail.com)
+  [![Link](https://img.shields.io/badge/email-dev.dionisiu.brovka%40gmail.com-green?style=for-the-badge)](mailto:dev.dionisiu.brovka@gmail.com)
+  
+</div>
 
 ---
 
@@ -27,12 +34,6 @@
 - Russian (native)
 - Belarusian (native)
 - English
-
----
-
-## 📫 Contact me
-
-[rozetka33376@gmail.com](mailto:rozetka33376@gmail.com)
 
 ---
 Thank you for visiting my profile! 🚀
