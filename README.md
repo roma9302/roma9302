@@ -14,15 +14,15 @@
 
 --- 
 
-# ▎🎓 Education
+### ▎🎓 Education
 
 I study at the College of Digital Technologies. Minsk. Belarus.
 
 ---
 
-## ▎⚙️ Tech Stack
+### ▎⚙️ Tech Stack
 
-### • Programming Languages:
+#### • Programming Languages:
 
   • Python
 
@@ -30,7 +30,7 @@ I study at the College of Digital Technologies. Minsk. Belarus.
 
   • C++
 
-### • Tools:
+#### • Tools:
 
   • Git
 
