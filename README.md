@@ -5,7 +5,7 @@
   
 
 
-  [![Link](https://img.shields.io/badge/github-roma9302-blue?style=for-the-badge&color=%234925bb)](https://github.com/roma9302?tab=repositories)
+  [![Link](https://img.shields.io/badge/github-roma9302-#FF5733?style=for-the-badge&color=%234925bb)](https://github.com/roma9302?tab=repositories)
   [![Link](https://img.shields.io/badge/discord-roma09099-blue?style=for-the-badge&color=%2300b2ff)](https://discordapp.com/users/roma09099/) 
   [![Link](https://img.shields.io/badge/email-rozetka%40gmail.com-green?style=for-the-badge)](mailto:rozetka33376@gmail.com)
   
