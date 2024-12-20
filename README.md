@@ -16,6 +16,7 @@
 --- 
 
 ▎🎓 Education
+
 I study at the College of Digital Technologies. Minsk. Belarus.
 
 ---
