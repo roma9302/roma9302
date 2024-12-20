@@ -22,7 +22,7 @@ I study at the College of Digital Technologies. Minsk. Belarus.
 
 ▎⚙️ Tech Stack
 
-• Programming Languages:
+### • Programming Languages:
 
   • Python
 
