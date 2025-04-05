@@ -19,6 +19,7 @@
 I study at the College of Digital Technologies. Minsk. Belarus.
 
 ---
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roma9302&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Roma9302 GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma9302&layout=compact&theme=dark&hide_border=true" alt="Top Langs"> </p>
 
 ### ▎⚙️ Tech Stack
 
