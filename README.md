@@ -19,7 +19,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/College%20of%20Digital%20Technologies-009999?style=for-the-badge" alt="College"> </p>
 
 <p align="center"> 📍 Minsk, Belarus 🌟 A proud tech enthusiast building a future in digital innovation. </p>
----
+
 ---
 
 <p align="center">⚙️ Tech Stack</p>
