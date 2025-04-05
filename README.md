@@ -23,25 +23,12 @@
 I study at the College of Digital Technologies. Minsk. Belarus.
 ---
 
-### ▎⚙️ Tech Stack
+<p align="center">⚙️ Tech Stack</p>
+• Programming Languages:
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++"> </p>
 
-#### • Programming Languages:
-
-  • Python
-
-  • JavaScript
-
-  • C++
-
-#### • Tools:
-
-  • Git
-
-  • GitHub
-
-  • Visual Studio
-
-  • PyCharm
+• Tools:
+<p align="center"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge" alt="Visual Studio"> <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" alt="PyCharm"> </p>
 
 ---
 
