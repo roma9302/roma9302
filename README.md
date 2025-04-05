@@ -13,12 +13,13 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roma9302&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Roma9302 GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma9302&layout=compact&theme=dark&hide_border=true" alt="Top Langs"> </p>
 
----
+
 ---
 <p align="center">🎓 Education</p>
 <p align="center"> <img src="https://img.shields.io/badge/College%20of%20Digital%20Technologies-009999?style=for-the-badge" alt="College"> </p>
 
 <p align="center"> 📍 Minsk, Belarus 🌟 A proud tech enthusiast building a future in digital innovation. </p>
+---
 ---
 
 <p align="center">⚙️ Tech Stack</p>
