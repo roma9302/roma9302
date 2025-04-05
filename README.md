@@ -31,14 +31,8 @@
 
 ---
 
-### ▎🌍 Languages
-
-• Russian (Native)
-
-• Belarusian (Native)
-
-• English
-
+<p align="center">🌍 Languages</p>
+<p align="center"> <img src="https://img.shields.io/badge/Russian-Native-red?style=for-the-badge" alt="Russian"> <img src="https://img.shields.io/badge/Belarusian-Native-green?style=for-the-badge" alt="Belarusian"> <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge" alt="English"> </p>
 ---
 
-Thank you for visiting my profile! 🚀
+
